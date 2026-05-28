@@ -29,7 +29,7 @@ I am currently pursuing my **Bachelor's Degree in Computer Science**. I am a pas
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyrenExo&show_icons=true&theme=dark" alt="xyrenExo's GitHub Stats" />
+  <img src="https://github-readme-stats.github/workflows/grs.yml/api?username=xyrenExo&show_icons=true&theme=dark" alt="xyrenExo's GitHub Stats" />
 </p>
 
 ---
