@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Chamidu — @xyrenExo
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=CS+Student+%7C+Robotics+Hobbyist;Building+Smart+Systems+from+Scratch;AI+%2F+ML+Explorer)](https://git.io/typing-svg)
 ### 🎓 Computer Science Student | ⚡ Electronics & Robotics Hobbyist | 🧠 AI & ML Explorer
 
 I'm a Computer Science undergraduate passionate about the intersection of software and hardware. While I sharpen my CS fundamentals in the classroom, I spend my free time building circuits, tinkering with microcontrollers, and programming robots from scratch. I'm also deeply fascinated by AI and Machine Learning — especially applying intelligent algorithms to physical systems.
